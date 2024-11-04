@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cassandra-driver": "^4.7.2",
+    "uuid": "^11.0.2"
+  }
+}

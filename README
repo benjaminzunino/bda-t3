@@ -1,0 +1,3 @@
+Instalar dependencias con 'npm install'
+Subir contenedor de Casandra con 'docker compose up'
+Abrir app de menú con 'node app.js'
